@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T15:51:31.229Z'
-dateModified: '2016-01-04T15:51:17.029Z'
+datePublished: '2016-01-04T15:51:48.028Z'
+dateModified: '2016-01-04T15:51:44.196Z'
 title: "Here's what I'm reading this morning."
 author: []
 sourcePath: _posts/2016-01-04-heres-what-im-reading-this-morning.md
