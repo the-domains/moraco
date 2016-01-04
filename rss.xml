@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Moraco]]></title>
         <description><![CDATA[Moraco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moraco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 15:48:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 15:51:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moraco/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Here's what I'm reading this morning.]]></title>
-            <description><![CDATA[<h1>Here's what I'm reading this morning.</h1>]]></description>
-            <link>undefinedheres-what-im-reading-this-morning/index.html</link>
+            <description><![CDATA[<article><h1>Here's what I'm reading this morning.</h1><p>I'm posting it because I just activated my Grid site, and I need something to share. So here we are.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fca12f9d-6180-44e9-a0ed-fd231b39bd58.png"></article>]]></description>
+            <link>https://thegrid.ai/moraco/heres-what-im-reading-this-morning/index.html</link>
             <guid isPermaLink="false">28efebb1-bec9-4a24-8f13-c308e9e5bd1c</guid>
-            <pubDate>Mon, 04 Jan 2016 15:48:10 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 15:51:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
