@@ -1,7 +1,7 @@
 name: Moraco
 favicon: null
-layout_spectrum: 0.503943091025576
-typography_spectrum: 0.48339197249151766
+layout_spectrum: 0.46591
+typography_spectrum: 0.88616
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.0013398549053817987
-  lightness: 0.3924606987275183
-  saturation: 0.34985409770160913
-  rhythmicContrast: 0.9827183093875647
+    - '#0d2446'
+    - '#ffffff'
+    - '#28638f'
+    - '#82858a'
+    - '#abb4bd'
+  brandStrength: 0.375
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
