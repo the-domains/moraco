@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T15:55:27.201Z'
-dateModified: '2016-01-04T15:55:24.588Z'
+datePublished: '2016-01-09T20:31:36.670Z'
+dateModified: '2016-01-04T15:55:27.201Z'
 title: "Here's what I'm reading this morning."
 author: []
 sourcePath: _posts/2016-01-04-heres-what-im-reading-this-morning.md
